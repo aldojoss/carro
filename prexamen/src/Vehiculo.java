@@ -109,5 +109,24 @@ public class Vehiculo {
         return nivelactualcombustible;
     }
 
+ public static double getCapacidadtotaldeltanque() {
+       return capacidadtotaldeltanque;
+   }
+
+   public static String getMarca() {
+       return marca;
+   }
+
+   public static String getNumerodeplaca() {
+       return numerodeplaca;
+   }
+
+
+public static double getNivelactualcombustible() {
+    return nivelactualcombustible;
+}
+
+
+
     
 }
